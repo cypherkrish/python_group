@@ -1,0 +1,17 @@
+Welcome to example.txt
+
+This is a sample text file created for demonstration purposes.
+
+You can use this file to:
+- Test file reading and writing
+- Practice text processing
+- Verify program functionality
+
+Sample Data:
+Name: John Doe
+Email: john.doe@example.com
+Date: 2026-06-13
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+End of file.
